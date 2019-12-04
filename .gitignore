@@ -1,5 +1,6 @@
 .gitignore
 
-LabDefense/*
+LabDefense_Game/*
+NinjaRunning_Game/*
 
 *.doc
