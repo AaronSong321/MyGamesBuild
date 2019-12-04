@@ -1,2 +1,5 @@
+.gitignore
+
 LabDefense/*
-NinjaRunning/*
+
+*.doc
